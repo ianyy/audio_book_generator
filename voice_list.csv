@@ -1,0 +1,323 @@
+ShortName,FriendlyName,Language
+af-ZA-AdriNeural,Microsoft Adri Online (Natural) - Afrikaans (South Africa),af-ZA
+af-ZA-WillemNeural,Microsoft Willem Online (Natural) - Afrikaans (South Africa),af-ZA
+sq-AL-AnilaNeural,Microsoft Anila Online (Natural) - Albanian (Albania),sq-AL
+sq-AL-IlirNeural,Microsoft Ilir Online (Natural) - Albanian (Albania),sq-AL
+am-ET-AmehaNeural,Microsoft Ameha Online (Natural) - Amharic (Ethiopia),am-ET
+am-ET-MekdesNeural,Microsoft Mekdes Online (Natural) - Amharic (Ethiopia),am-ET
+ar-DZ-AminaNeural,Microsoft Amina Online (Natural) - Arabic (Algeria),ar-DZ
+ar-DZ-IsmaelNeural,Microsoft Ismael Online (Natural) - Arabic (Algeria),ar-DZ
+ar-BH-AliNeural,Microsoft Ali Online (Natural) - Arabic (Bahrain),ar-BH
+ar-BH-LailaNeural,Microsoft Laila Online (Natural) - Arabic (Bahrain),ar-BH
+ar-EG-SalmaNeural,Microsoft Salma Online (Natural) - Arabic (Egypt),ar-EG
+ar-EG-ShakirNeural,Microsoft Shakir Online (Natural) - Arabic (Egypt),ar-EG
+ar-IQ-BasselNeural,Microsoft Bassel Online (Natural) - Arabic (Iraq),ar-IQ
+ar-IQ-RanaNeural,Microsoft Rana Online (Natural) - Arabic (Iraq),ar-IQ
+ar-JO-SanaNeural,Microsoft Sana Online (Natural) - Arabic (Jordan),ar-JO
+ar-JO-TaimNeural,Microsoft Taim Online (Natural) - Arabic (Jordan),ar-JO
+ar-KW-FahedNeural,Microsoft Fahed Online (Natural) - Arabic (Kuwait),ar-KW
+ar-KW-NouraNeural,Microsoft Noura Online (Natural) - Arabic (Kuwait),ar-KW
+ar-LB-LaylaNeural,Microsoft Layla Online (Natural) - Arabic (Lebanon),ar-LB
+ar-LB-RamiNeural,Microsoft Rami Online (Natural) - Arabic (Lebanon),ar-LB
+ar-LY-ImanNeural,Microsoft Iman Online (Natural) - Arabic (Libya),ar-LY
+ar-LY-OmarNeural,Microsoft Omar Online (Natural) - Arabic (Libya),ar-LY
+ar-MA-JamalNeural,Microsoft Jamal Online (Natural) - Arabic (Morocco),ar-MA
+ar-MA-MounaNeural,Microsoft Mouna Online (Natural) - Arabic (Morocco),ar-MA
+ar-OM-AbdullahNeural,Microsoft Abdullah Online (Natural) - Arabic (Oman),ar-OM
+ar-OM-AyshaNeural,Microsoft Aysha Online (Natural) - Arabic (Oman),ar-OM
+ar-QA-AmalNeural,Microsoft Amal Online (Natural) - Arabic (Qatar),ar-QA
+ar-QA-MoazNeural,Microsoft Moaz Online (Natural) - Arabic (Qatar),ar-QA
+ar-SA-HamedNeural,Microsoft Hamed Online (Natural) - Arabic (Saudi Arabia),ar-SA
+ar-SA-ZariyahNeural,Microsoft Zariyah Online (Natural) - Arabic (Saudi Arabia),ar-SA
+ar-SY-AmanyNeural,Microsoft Amany Online (Natural) - Arabic (Syria),ar-SY
+ar-SY-LaithNeural,Microsoft Laith Online (Natural) - Arabic (Syria),ar-SY
+ar-TN-HediNeural,Microsoft Hedi Online (Natural) - Arabic (Tunisia),ar-TN
+ar-TN-ReemNeural,Microsoft Reem Online (Natural) - Arabic (Tunisia),ar-TN
+ar-AE-FatimaNeural,Microsoft Fatima Online (Natural) - Arabic (United Arab Emirates),ar-AE
+ar-AE-HamdanNeural,Microsoft Hamdan Online (Natural) - Arabic (United Arab Emirates),ar-AE
+ar-YE-MaryamNeural,Microsoft Maryam Online (Natural) - Arabic (Yemen),ar-YE
+ar-YE-SalehNeural,Microsoft Saleh Online (Natural) - Arabic (Yemen),ar-YE
+az-AZ-BabekNeural,Microsoft Babek Online (Natural) - Azerbaijani (Azerbaijan),az-AZ
+az-AZ-BanuNeural,Microsoft Banu Online (Natural) - Azerbaijani (Azerbaijan),az-AZ
+bn-BD-NabanitaNeural,Microsoft Nabanita Online (Natural) - Bangla (Bangladesh),bn-BD
+bn-BD-PradeepNeural,Microsoft Pradeep Online (Natural) - Bangla (Bangladesh),bn-BD
+bn-IN-BashkarNeural,Microsoft Bashkar Online (Natural) - Bangla (India),bn-IN
+bn-IN-TanishaaNeural,Microsoft Tanishaa Online (Natural) - Bengali (India),bn-IN
+bs-BA-GoranNeural,Microsoft Goran Online (Natural) - Bosnian (Bosnia),bs-BA
+bs-BA-VesnaNeural,Microsoft Vesna Online (Natural) - Bosnian (Bosnia),bs-BA
+bg-BG-BorislavNeural,Microsoft Borislav Online (Natural) - Bulgarian (Bulgaria),bg-BG
+bg-BG-KalinaNeural,Microsoft Kalina Online (Natural) - Bulgarian (Bulgaria),bg-BG
+my-MM-NilarNeural,Microsoft Nilar Online (Natural) - Burmese (Myanmar),my-MM
+my-MM-ThihaNeural,Microsoft Thiha Online (Natural) - Burmese (Myanmar),my-MM
+ca-ES-EnricNeural,Microsoft Enric Online (Natural) - Catalan (Spain),ca-ES
+ca-ES-JoanaNeural,Microsoft Joana Online (Natural) - Catalan (Spain),ca-ES
+zh-HK-HiuGaaiNeural,Microsoft HiuGaai Online (Natural) - Chinese (Cantonese Traditional),zh-HK
+zh-HK-HiuMaanNeural,Microsoft HiuMaan Online (Natural) - Chinese (Hong Kong),zh-HK
+zh-HK-WanLungNeural,Microsoft WanLung Online (Natural) - Chinese (Hong Kong),zh-HK
+zh-CN-XiaoxiaoNeural,Microsoft Xiaoxiao Online (Natural) - Chinese (Mainland),zh-CN
+zh-CN-XiaoyiNeural,Microsoft Xiaoyi Online (Natural) - Chinese (Mainland),zh-CN
+zh-CN-YunjianNeural,Microsoft Yunjian Online (Natural) - Chinese (Mainland),zh-CN
+zh-CN-YunxiNeural,Microsoft Yunxi Online (Natural) - Chinese (Mainland),zh-CN
+zh-CN-YunxiaNeural,Microsoft Yunxia Online (Natural) - Chinese (Mainland),zh-CN
+zh-CN-YunyangNeural,Microsoft Yunyang Online (Natural) - Chinese (Mainland),zh-CN
+zh-CN-liaoning-XiaobeiNeural,Microsoft Xiaobei Online (Natural) - Chinese (Northeastern Mandarin),zh-CN-liaoning
+zh-TW-HsiaoChenNeural,Microsoft HsiaoChen Online (Natural) - Chinese (Taiwan),zh-TW
+zh-TW-YunJheNeural,Microsoft YunJhe Online (Natural) - Chinese (Taiwan),zh-TW
+zh-TW-HsiaoYuNeural,Microsoft HsiaoYu Online (Natural) - Chinese (Taiwanese Mandarin),zh-TW
+zh-CN-shaanxi-XiaoniNeural,Microsoft Xiaoni Online (Natural) - Chinese (Zhongyuan Mandarin Shaanxi),zh-CN-shaanxi
+hr-HR-GabrijelaNeural,Microsoft Gabrijela Online (Natural) - Croatian (Croatia),hr-HR
+hr-HR-SreckoNeural,Microsoft Srecko Online (Natural) - Croatian (Croatia),hr-HR
+cs-CZ-AntoninNeural,Microsoft Antonin Online (Natural) - Czech (Czech),cs-CZ
+cs-CZ-VlastaNeural,Microsoft Vlasta Online (Natural) - Czech (Czech),cs-CZ
+da-DK-ChristelNeural,Microsoft Christel Online (Natural) - Danish (Denmark),da-DK
+da-DK-JeppeNeural,Microsoft Jeppe Online (Natural) - Danish (Denmark),da-DK
+nl-BE-ArnaudNeural,Microsoft Arnaud Online (Natural) - Dutch (Belgium),nl-BE
+nl-BE-DenaNeural,Microsoft Dena Online (Natural) - Dutch (Belgium),nl-BE
+nl-NL-ColetteNeural,Microsoft Colette Online (Natural) - Dutch (Netherlands),nl-NL
+nl-NL-FennaNeural,Microsoft Fenna Online (Natural) - Dutch (Netherlands),nl-NL
+nl-NL-MaartenNeural,Microsoft Maarten Online (Natural) - Dutch (Netherlands),nl-NL
+en-AU-NatashaNeural,Microsoft Natasha Online (Natural) - English (Australia),en-AU
+en-AU-WilliamNeural,Microsoft William Online (Natural) - English (Australia),en-AU
+en-CA-ClaraNeural,Microsoft Clara Online (Natural) - English (Canada),en-CA
+en-CA-LiamNeural,Microsoft Liam Online (Natural) - English (Canada),en-CA
+en-HK-SamNeural,Microsoft Sam Online (Natural) - English (Hongkong),en-HK
+en-HK-YanNeural,Microsoft Yan Online (Natural) - English (Hongkong),en-HK
+en-IN-NeerjaExpressiveNeural,Microsoft Neerja Online (Natural) - English (India) (Preview),en-IN
+en-IN-NeerjaNeural,Microsoft Neerja Online (Natural) - English (India),en-IN
+en-IN-PrabhatNeural,Microsoft Prabhat Online (Natural) - English (India),en-IN
+en-IE-ConnorNeural,Microsoft Connor Online (Natural) - English (Ireland),en-IE
+en-IE-EmilyNeural,Microsoft Emily Online (Natural) - English (Ireland),en-IE
+en-KE-AsiliaNeural,Microsoft Asilia Online (Natural) - English (Kenya),en-KE
+en-KE-ChilembaNeural,Microsoft Chilemba Online (Natural) - English (Kenya),en-KE
+en-NZ-MitchellNeural,Microsoft Mitchell Online (Natural) - English (New Zealand),en-NZ
+en-NZ-MollyNeural,Microsoft Molly Online (Natural) - English (New Zealand),en-NZ
+en-NG-AbeoNeural,Microsoft Abeo Online (Natural) - English (Nigeria),en-NG
+en-NG-EzinneNeural,Microsoft Ezinne Online (Natural) - English (Nigeria),en-NG
+en-PH-JamesNeural,Microsoft James Online (Natural) - English (Philippines),en-PH
+en-PH-RosaNeural,Microsoft Rosa Online (Natural) - English (Philippines),en-PH
+en-SG-LunaNeural,Microsoft Luna Online (Natural) - English (Singapore),en-SG
+en-SG-WayneNeural,Microsoft Wayne Online (Natural) - English (Singapore),en-SG
+en-US-AvaMultilingualNeural,Microsoft AvaMultilingual Online (Natural) - English (United States),en-US
+en-US-AndrewMultilingualNeural,Microsoft AndrewMultilingual Online (Natural) - English (United States),en-US
+en-US-EmmaMultilingualNeural,Microsoft EmmaMultilingual Online (Natural) - English (United States),en-US
+en-US-BrianMultilingualNeural,Microsoft BrianMultilingual Online (Natural) - English (United States),en-US
+en-US-AvaNeural,Microsoft Ava Online (Natural) - English (United States),en-US
+en-US-AndrewNeural,Microsoft Andrew Online (Natural) - English (United States),en-US
+en-US-EmmaNeural,Microsoft Emma Online (Natural) - English (United States),en-US
+en-US-BrianNeural,Microsoft Brian Online (Natural) - English (United States),en-US
+en-ZA-LeahNeural,Microsoft Leah Online (Natural) - English (South Africa),en-ZA
+en-ZA-LukeNeural,Microsoft Luke Online (Natural) - English (South Africa),en-ZA
+en-TZ-ElimuNeural,Microsoft Elimu Online (Natural) - English (Tanzania),en-TZ
+en-TZ-ImaniNeural,Microsoft Imani Online (Natural) - English (Tanzania),en-TZ
+en-GB-LibbyNeural,Microsoft Libby Online (Natural) - English (United Kingdom),en-GB
+en-GB-MaisieNeural,Microsoft Maisie Online (Natural) - English (United Kingdom),en-GB
+en-GB-RyanNeural,Microsoft Ryan Online (Natural) - English (United Kingdom),en-GB
+en-GB-SoniaNeural,Microsoft Sonia Online (Natural) - English (United Kingdom),en-GB
+en-GB-ThomasNeural,Microsoft Thomas Online (Natural) - English (United Kingdom),en-GB
+en-US-AnaNeural,Microsoft Ana Online (Natural) - English (United States),en-US
+en-US-AriaNeural,Microsoft Aria Online (Natural) - English (United States),en-US
+en-US-ChristopherNeural,Microsoft Christopher Online (Natural) - English (United States),en-US
+en-US-EricNeural,Microsoft Eric Online (Natural) - English (United States),en-US
+en-US-GuyNeural,Microsoft Guy Online (Natural) - English (United States),en-US
+en-US-JennyNeural,Microsoft Jenny Online (Natural) - English (United States),en-US
+en-US-MichelleNeural,Microsoft Michelle Online (Natural) - English (United States),en-US
+en-US-RogerNeural,Microsoft Roger Online (Natural) - English (United States),en-US
+en-US-SteffanNeural,Microsoft Steffan Online (Natural) - English (United States),en-US
+et-EE-AnuNeural,Microsoft Anu Online (Natural) - Estonian (Estonia),et-EE
+et-EE-KertNeural,Microsoft Kert Online (Natural) - Estonian (Estonia),et-EE
+fil-PH-AngeloNeural,Microsoft Angelo Online (Natural) - Filipino (Philippines),fil-PH
+fil-PH-BlessicaNeural,Microsoft Blessica Online (Natural) - Filipino (Philippines),fil-PH
+fi-FI-HarriNeural,Microsoft Harri Online (Natural) - Finnish (Finland),fi-FI
+fi-FI-NooraNeural,Microsoft Noora Online (Natural) - Finnish (Finland),fi-FI
+fr-BE-CharlineNeural,Microsoft Charline Online (Natural) - French (Belgium),fr-BE
+fr-BE-GerardNeural,Microsoft Gerard Online (Natural) - French (Belgium),fr-BE
+fr-CA-ThierryNeural,Microsoft Thierry Online (Natural) - French (Canada),fr-CA
+fr-CA-AntoineNeural,Microsoft Antoine Online (Natural) - French (Canada),fr-CA
+fr-CA-JeanNeural,Microsoft Jean Online (Natural) - French (Canada),fr-CA
+fr-CA-SylvieNeural,Microsoft Sylvie Online (Natural) - French (Canada),fr-CA
+fr-FR-VivienneMultilingualNeural,Microsoft VivienneMultilingual Online (Natural) - French (France),fr-FR
+fr-FR-RemyMultilingualNeural,Microsoft RemyMultilingual Online (Natural) - French (France),fr-FR
+fr-FR-DeniseNeural,Microsoft Denise Online (Natural) - French (France),fr-FR
+fr-FR-EloiseNeural,Microsoft Eloise Online (Natural) - French (France),fr-FR
+fr-FR-HenriNeural,Microsoft Henri Online (Natural) - French (France),fr-FR
+fr-CH-ArianeNeural,Microsoft Ariane Online (Natural) - French (Switzerland),fr-CH
+fr-CH-FabriceNeural,Microsoft Fabrice Online (Natural) - French (Switzerland),fr-CH
+gl-ES-RoiNeural,Microsoft Roi Online (Natural) - Galician (Spain),gl-ES
+gl-ES-SabelaNeural,Microsoft Sabela Online (Natural) - Galician (Spain),gl-ES
+ka-GE-EkaNeural,Microsoft Eka Online (Natural) - Georgian (Georgia),ka-GE
+ka-GE-GiorgiNeural,Microsoft Giorgi Online (Natural) - Georgian (Georgia),ka-GE
+de-AT-IngridNeural,Microsoft Ingrid Online (Natural) - German (Austria),de-AT
+de-AT-JonasNeural,Microsoft Jonas Online (Natural) - German (Austria),de-AT
+de-DE-SeraphinaMultilingualNeural,Microsoft SeraphinaMultilingual Online (Natural) - German (Germany),de-DE
+de-DE-FlorianMultilingualNeural,Microsoft FlorianMultilingual Online (Natural) - German (Germany),de-DE
+de-DE-AmalaNeural,Microsoft Amala Online (Natural) - German (Germany),de-DE
+de-DE-ConradNeural,Microsoft Conrad Online (Natural) - German (Germany),de-DE
+de-DE-KatjaNeural,Microsoft Katja Online (Natural) - German (Germany),de-DE
+de-DE-KillianNeural,Microsoft Killian Online (Natural) - German (Germany),de-DE
+de-CH-JanNeural,Microsoft Jan Online (Natural) - German (Switzerland),de-CH
+de-CH-LeniNeural,Microsoft Leni Online (Natural) - German (Switzerland),de-CH
+el-GR-AthinaNeural,Microsoft Athina Online (Natural) - Greek (Greece),el-GR
+el-GR-NestorasNeural,Microsoft Nestoras Online (Natural) - Greek (Greece),el-GR
+gu-IN-DhwaniNeural,Microsoft Dhwani Online (Natural) - Gujarati (India),gu-IN
+gu-IN-NiranjanNeural,Microsoft Niranjan Online (Natural) - Gujarati (India),gu-IN
+he-IL-AvriNeural,Microsoft Avri Online (Natural) - Hebrew (Israel),he-IL
+he-IL-HilaNeural,Microsoft Hila Online (Natural) - Hebrew (Israel),he-IL
+hi-IN-MadhurNeural,Microsoft Madhur Online (Natural) - Hindi (India),hi-IN
+hi-IN-SwaraNeural,Microsoft Swara Online (Natural) - Hindi (India),hi-IN
+hu-HU-NoemiNeural,Microsoft Noemi Online (Natural) - Hungarian (Hungary),hu-HU
+hu-HU-TamasNeural,Microsoft Tamas Online (Natural) - Hungarian (Hungary),hu-HU
+is-IS-GudrunNeural,Microsoft Gudrun Online (Natural) - Icelandic (Iceland),is-IS
+is-IS-GunnarNeural,Microsoft Gunnar Online (Natural) - Icelandic (Iceland),is-IS
+id-ID-ArdiNeural,Microsoft Ardi Online (Natural) - Indonesian (Indonesia),id-ID
+id-ID-GadisNeural,Microsoft Gadis Online (Natural) - Indonesian (Indonesia),id-ID
+iu-Latn-CA-SiqiniqNeural,"Microsoft Siqiniq Online (Natural) - Inuktitut (Latin, Canada)",iu-Latn-CA
+iu-Latn-CA-TaqqiqNeural,"Microsoft Taqqiq Online (Natural) - Inuktitut (Latin, Canada)",iu-Latn-CA
+iu-Cans-CA-SiqiniqNeural,"Microsoft Siqiniq Online (Natural) - Inuktitut (Syllabics, Canada)",iu-Cans-CA
+iu-Cans-CA-TaqqiqNeural,"Microsoft Taqqiq Online (Natural) - Inuktitut (Syllabics, Canada)",iu-Cans-CA
+ga-IE-ColmNeural,Microsoft Colm Online (Natural) - Irish (Ireland),ga-IE
+ga-IE-OrlaNeural,Microsoft Orla Online (Natural) - Irish (Ireland),ga-IE
+it-IT-GiuseppeMultilingualNeural,Microsoft GiuseppeMultilingual Online (Natural) - Italian (Italy),it-IT
+it-IT-DiegoNeural,Microsoft Diego Online (Natural) - Italian (Italy),it-IT
+it-IT-ElsaNeural,Microsoft Elsa Online (Natural) - Italian (Italy),it-IT
+it-IT-IsabellaNeural,Microsoft Isabella Online (Natural) - Italian (Italy),it-IT
+ja-JP-KeitaNeural,Microsoft Keita Online (Natural) - Japanese (Japan),ja-JP
+ja-JP-NanamiNeural,Microsoft Nanami Online (Natural) - Japanese (Japan),ja-JP
+jv-ID-DimasNeural,Microsoft Dimas Online (Natural) - Javanese (Indonesia),jv-ID
+jv-ID-SitiNeural,Microsoft Siti Online (Natural) - Javanese (Indonesia),jv-ID
+kn-IN-GaganNeural,Microsoft Gagan Online (Natural) - Kannada (India),kn-IN
+kn-IN-SapnaNeural,Microsoft Sapna Online (Natural) - Kannada (India),kn-IN
+kk-KZ-AigulNeural,Microsoft Aigul Online (Natural) - Kazakh (Kazakhstan),kk-KZ
+kk-KZ-DauletNeural,Microsoft Daulet Online (Natural) - Kazakh (Kazakhstan),kk-KZ
+km-KH-PisethNeural,Microsoft Piseth Online (Natural) - Khmer (Cambodia),km-KH
+km-KH-SreymomNeural,Microsoft Sreymom Online (Natural) - Khmer (Cambodia),km-KH
+ko-KR-HyunsuMultilingualNeural,Microsoft HyunsuMultilingual Online (Natural) - Korean (Korea),ko-KR
+ko-KR-InJoonNeural,Microsoft InJoon Online (Natural) - Korean (Korea),ko-KR
+ko-KR-SunHiNeural,Microsoft SunHi Online (Natural) - Korean (Korea),ko-KR
+lo-LA-ChanthavongNeural,Microsoft Chanthavong Online (Natural) - Lao (Laos),lo-LA
+lo-LA-KeomanyNeural,Microsoft Keomany Online (Natural) - Lao (Laos),lo-LA
+lv-LV-EveritaNeural,Microsoft Everita Online (Natural) - Latvian (Latvia),lv-LV
+lv-LV-NilsNeural,Microsoft Nils Online (Natural) - Latvian (Latvia),lv-LV
+lt-LT-LeonasNeural,Microsoft Leonas Online (Natural) - Lithuanian (Lithuania),lt-LT
+lt-LT-OnaNeural,Microsoft Ona Online (Natural) - Lithuanian (Lithuania),lt-LT
+mk-MK-AleksandarNeural,Microsoft Aleksandar Online (Natural) - Macedonian (Republic of North Macedonia),mk-MK
+mk-MK-MarijaNeural,Microsoft Marija Online (Natural) - Macedonian (Republic of North Macedonia),mk-MK
+ms-MY-OsmanNeural,Microsoft Osman Online (Natural) - Malay (Malaysia),ms-MY
+ms-MY-YasminNeural,Microsoft Yasmin Online (Natural) - Malay (Malaysia),ms-MY
+ml-IN-MidhunNeural,Microsoft Midhun Online (Natural) - Malayalam (India),ml-IN
+ml-IN-SobhanaNeural,Microsoft Sobhana Online (Natural) - Malayalam (India),ml-IN
+mt-MT-GraceNeural,Microsoft Grace Online (Natural) - Maltese (Malta),mt-MT
+mt-MT-JosephNeural,Microsoft Joseph Online (Natural) - Maltese (Malta),mt-MT
+mr-IN-AarohiNeural,Microsoft Aarohi Online (Natural) - Marathi (India),mr-IN
+mr-IN-ManoharNeural,Microsoft Manohar Online (Natural) - Marathi (India),mr-IN
+mn-MN-BataaNeural,Microsoft Bataa Online (Natural) - Mongolian (Mongolia),mn-MN
+mn-MN-YesuiNeural,Microsoft Yesui Online (Natural) - Mongolian (Mongolia),mn-MN
+ne-NP-HemkalaNeural,Microsoft Hemkala Online (Natural) - Nepali (Nepal),ne-NP
+ne-NP-SagarNeural,Microsoft Sagar Online (Natural) - Nepali (Nepal),ne-NP
+nb-NO-FinnNeural,Microsoft Finn Online (Natural) - Norwegian (Bokmål Norway),nb-NO
+nb-NO-PernilleNeural,"Microsoft Pernille Online (Natural) - Norwegian (Bokmål, Norway)",nb-NO
+ps-AF-GulNawazNeural,Microsoft GulNawaz Online (Natural) - Pashto (Afghanistan),ps-AF
+ps-AF-LatifaNeural,Microsoft Latifa Online (Natural) - Pashto (Afghanistan),ps-AF
+fa-IR-DilaraNeural,Microsoft Dilara Online (Natural) - Persian (Iran),fa-IR
+fa-IR-FaridNeural,Microsoft Farid Online (Natural) - Persian (Iran),fa-IR
+pl-PL-MarekNeural,Microsoft Marek Online (Natural) - Polish (Poland),pl-PL
+pl-PL-ZofiaNeural,Microsoft Zofia Online (Natural) - Polish (Poland),pl-PL
+pt-BR-ThalitaMultilingualNeural,Microsoft ThalitaMultilingual Online (Natural) - Portuguese (Brazil),pt-BR
+pt-BR-AntonioNeural,Microsoft Antonio Online (Natural) - Portuguese (Brazil),pt-BR
+pt-BR-FranciscaNeural,Microsoft Francisca Online (Natural) - Portuguese (Brazil),pt-BR
+pt-PT-DuarteNeural,Microsoft Duarte Online (Natural) - Portuguese (Portugal),pt-PT
+pt-PT-RaquelNeural,Microsoft Raquel Online (Natural) - Portuguese (Portugal),pt-PT
+ro-RO-AlinaNeural,Microsoft Alina Online (Natural) - Romanian (Romania),ro-RO
+ro-RO-EmilNeural,Microsoft Emil Online (Natural) - Romanian (Romania),ro-RO
+ru-RU-DmitryNeural,Microsoft Dmitry Online (Natural) - Russian (Russia),ru-RU
+ru-RU-SvetlanaNeural,Microsoft Svetlana Online (Natural) - Russian (Russia),ru-RU
+sr-RS-NicholasNeural,Microsoft Nicholas Online (Natural) - Serbian (Serbia),sr-RS
+sr-RS-SophieNeural,Microsoft Sophie Online (Natural) - Serbian (Serbia),sr-RS
+si-LK-SameeraNeural,Microsoft Sameera Online (Natural) - Sinhala (Sri Lanka),si-LK
+si-LK-ThiliniNeural,Microsoft Thilini Online (Natural) - Sinhala (Sri Lanka),si-LK
+sk-SK-LukasNeural,Microsoft Lukas Online (Natural) - Slovak (Slovakia),sk-SK
+sk-SK-ViktoriaNeural,Microsoft Viktoria Online (Natural) - Slovak (Slovakia),sk-SK
+sl-SI-PetraNeural,Microsoft Petra Online (Natural) - Slovenian (Slovenia),sl-SI
+sl-SI-RokNeural,Microsoft Rok Online (Natural) - Slovenian (Slovenia),sl-SI
+so-SO-MuuseNeural,Microsoft Muuse Online (Natural) - Somali (Somalia),so-SO
+so-SO-UbaxNeural,Microsoft Ubax Online (Natural) - Somali (Somalia),so-SO
+es-AR-ElenaNeural,Microsoft Elena Online (Natural) - Spanish (Argentina),es-AR
+es-AR-TomasNeural,Microsoft Tomas Online (Natural) - Spanish (Argentina),es-AR
+es-BO-MarceloNeural,Microsoft Marcelo Online (Natural) - Spanish (Bolivia),es-BO
+es-BO-SofiaNeural,Microsoft Sofia Online (Natural) - Spanish (Bolivia),es-BO
+es-CL-CatalinaNeural,Microsoft Catalina Online (Natural) - Spanish (Chile),es-CL
+es-CL-LorenzoNeural,Microsoft Lorenzo Online (Natural) - Spanish (Chile),es-CL
+es-CO-GonzaloNeural,Microsoft Gonzalo Online (Natural) - Spanish (Colombia),es-CO
+es-CO-SalomeNeural,Microsoft Salome Online (Natural) - Spanish (Colombia),es-CO
+es-ES-XimenaNeural,Microsoft Ximena Online (Natural) - Spanish (Colombia),es-ES
+es-CR-JuanNeural,Microsoft Juan Online (Natural) - Spanish (Costa Rica),es-CR
+es-CR-MariaNeural,Microsoft Maria Online (Natural) - Spanish (Costa Rica),es-CR
+es-CU-BelkysNeural,Microsoft Belkys Online (Natural) - Spanish (Cuba),es-CU
+es-CU-ManuelNeural,Microsoft Manuel Online (Natural) - Spanish (Cuba),es-CU
+es-DO-EmilioNeural,Microsoft Emilio Online (Natural) - Spanish (Dominican Republic),es-DO
+es-DO-RamonaNeural,Microsoft Ramona Online (Natural) - Spanish (Dominican Republic),es-DO
+es-EC-AndreaNeural,Microsoft Andrea Online (Natural) - Spanish (Ecuador),es-EC
+es-EC-LuisNeural,Microsoft Luis Online (Natural) - Spanish (Ecuador),es-EC
+es-SV-LorenaNeural,Microsoft Lorena Online (Natural) - Spanish (El Salvador),es-SV
+es-SV-RodrigoNeural,Microsoft Rodrigo Online (Natural) - Spanish (El Salvador),es-SV
+es-GQ-JavierNeural,Microsoft Javier Online (Natural) - Spanish (Equatorial Guinea),es-GQ
+es-GQ-TeresaNeural,Microsoft Teresa Online (Natural) - Spanish (Equatorial Guinea),es-GQ
+es-GT-AndresNeural,Microsoft Andres Online (Natural) - Spanish (Guatemala),es-GT
+es-GT-MartaNeural,Microsoft Marta Online (Natural) - Spanish (Guatemala),es-GT
+es-HN-CarlosNeural,Microsoft Carlos Online (Natural) - Spanish (Honduras),es-HN
+es-HN-KarlaNeural,Microsoft Karla Online (Natural) - Spanish (Honduras),es-HN
+es-MX-DaliaNeural,Microsoft Dalia Online (Natural) - Spanish (Mexico),es-MX
+es-MX-JorgeNeural,Microsoft Jorge Online (Natural) - Spanish (Mexico),es-MX
+es-NI-FedericoNeural,Microsoft Federico Online (Natural) - Spanish (Nicaragua),es-NI
+es-NI-YolandaNeural,Microsoft Yolanda Online (Natural) - Spanish (Nicaragua),es-NI
+es-PA-MargaritaNeural,Microsoft Margarita Online (Natural) - Spanish (Panama),es-PA
+es-PA-RobertoNeural,Microsoft Roberto Online (Natural) - Spanish (Panama),es-PA
+es-PY-MarioNeural,Microsoft Mario Online (Natural) - Spanish (Paraguay),es-PY
+es-PY-TaniaNeural,Microsoft Tania Online (Natural) - Spanish (Paraguay),es-PY
+es-PE-AlexNeural,Microsoft Alex Online (Natural) - Spanish (Peru),es-PE
+es-PE-CamilaNeural,Microsoft Camila Online (Natural) - Spanish (Peru),es-PE
+es-PR-KarinaNeural,Microsoft Karina Online (Natural) - Spanish (Puerto Rico),es-PR
+es-PR-VictorNeural,Microsoft Victor Online (Natural) - Spanish (Puerto Rico),es-PR
+es-ES-AlvaroNeural,Microsoft Alvaro Online (Natural) - Spanish (Spain),es-ES
+es-ES-ElviraNeural,Microsoft Elvira Online (Natural) - Spanish (Spain),es-ES
+es-US-AlonsoNeural,Microsoft Alonso Online (Natural) - Spanish (United States),es-US
+es-US-PalomaNeural,Microsoft Paloma Online (Natural) - Spanish (United States),es-US
+es-UY-MateoNeural,Microsoft Mateo Online (Natural) - Spanish (Uruguay),es-UY
+es-UY-ValentinaNeural,Microsoft Valentina Online (Natural) - Spanish (Uruguay),es-UY
+es-VE-PaolaNeural,Microsoft Paola Online (Natural) - Spanish (Venezuela),es-VE
+es-VE-SebastianNeural,Microsoft Sebastian Online (Natural) - Spanish (Venezuela),es-VE
+su-ID-JajangNeural,Microsoft Jajang Online (Natural) - Sundanese (Indonesia),su-ID
+su-ID-TutiNeural,Microsoft Tuti Online (Natural) - Sundanese (Indonesia),su-ID
+sw-KE-RafikiNeural,Microsoft Rafiki Online (Natural) - Swahili (Kenya),sw-KE
+sw-KE-ZuriNeural,Microsoft Zuri Online (Natural) - Swahili (Kenya),sw-KE
+sw-TZ-DaudiNeural,Microsoft Daudi Online (Natural) - Swahili (Tanzania),sw-TZ
+sw-TZ-RehemaNeural,Microsoft Rehema Online (Natural) - Swahili (Tanzania),sw-TZ
+sv-SE-MattiasNeural,Microsoft Mattias Online (Natural) - Swedish (Sweden),sv-SE
+sv-SE-SofieNeural,Microsoft Sofie Online (Natural) - Swedish (Sweden),sv-SE
+ta-IN-PallaviNeural,Microsoft Pallavi Online (Natural) - Tamil (India),ta-IN
+ta-IN-ValluvarNeural,Microsoft Valluvar Online (Natural) - Tamil (India),ta-IN
+ta-MY-KaniNeural,Microsoft Kani Online (Natural) - Tamil (Malaysia),ta-MY
+ta-MY-SuryaNeural,Microsoft Surya Online (Natural) - Tamil (Malaysia),ta-MY
+ta-SG-AnbuNeural,Microsoft Anbu Online (Natural) - Tamil (Singapore),ta-SG
+ta-SG-VenbaNeural,Microsoft Venba Online (Natural) - Tamil (Singapore),ta-SG
+ta-LK-KumarNeural,Microsoft Kumar Online (Natural) - Tamil (Sri Lanka),ta-LK
+ta-LK-SaranyaNeural,Microsoft Saranya Online (Natural) - Tamil (Sri Lanka),ta-LK
+te-IN-MohanNeural,Microsoft Mohan Online (Natural) - Telugu (India),te-IN
+te-IN-ShrutiNeural,Microsoft Shruti Online (Natural) - Telugu (India),te-IN
+th-TH-NiwatNeural,Microsoft Niwat Online (Natural) - Thai (Thailand),th-TH
+th-TH-PremwadeeNeural,Microsoft Premwadee Online (Natural) - Thai (Thailand),th-TH
+tr-TR-AhmetNeural,Microsoft Ahmet Online (Natural) - Turkish (Turkey),tr-TR
+tr-TR-EmelNeural,Microsoft Emel Online (Natural) - Turkish (Turkey),tr-TR
+uk-UA-OstapNeural,Microsoft Ostap Online (Natural) - Ukrainian (Ukraine),uk-UA
+uk-UA-PolinaNeural,Microsoft Polina Online (Natural) - Ukrainian (Ukraine),uk-UA
+ur-IN-GulNeural,Microsoft Gul Online (Natural) - Urdu (India),ur-IN
+ur-IN-SalmanNeural,Microsoft Salman Online (Natural) - Urdu (India),ur-IN
+ur-PK-AsadNeural,Microsoft Asad Online (Natural) - Urdu (Pakistan),ur-PK
+ur-PK-UzmaNeural,Microsoft Uzma Online (Natural) - Urdu (Pakistan),ur-PK
+uz-UZ-MadinaNeural,Microsoft Madina Online (Natural) - Uzbek (Uzbekistan),uz-UZ
+uz-UZ-SardorNeural,Microsoft Sardor Online (Natural) - Uzbek (Uzbekistan),uz-UZ
+vi-VN-HoaiMyNeural,Microsoft HoaiMy Online (Natural) - Vietnamese (Vietnam),vi-VN
+vi-VN-NamMinhNeural,Microsoft NamMinh Online (Natural) - Vietnamese (Vietnam),vi-VN
+cy-GB-AledNeural,Microsoft Aled Online (Natural) - Welsh (United Kingdom),cy-GB
+cy-GB-NiaNeural,Microsoft Nia Online (Natural) - Welsh (United Kingdom),cy-GB
+zu-ZA-ThandoNeural,Microsoft Thando Online (Natural) - Zulu (South Africa),zu-ZA
+zu-ZA-ThembaNeural,Microsoft Themba Online (Natural) - Zulu (South Africa),zu-ZA
