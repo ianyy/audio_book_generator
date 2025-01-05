@@ -97,7 +97,7 @@ def srt_to_text_variable(srt_file_path):
         print(f"An error occurred: {e}")
         return None
 
-def process_chapters(chapters, output_dir, VOICE, watermark, chapter_num_start, chapter_num_end):
+def process_chapters(chapters, output_dir, VOICE, watermark, chapter_num_start, chapter_num_end, logging, max_chunk_size=10000):
     """
     Processes a subset of chapters, converts them to speech, and validates the output.
 
@@ -108,6 +108,8 @@ def process_chapters(chapters, output_dir, VOICE, watermark, chapter_num_start, 
         watermark (str): Watermark text to append to each chapter.
         chapter_num_start (int): Starting chapter number.
         chapter_num_end (int): Ending chapter number.
+        logging (logging): Logging object.
+        max_chunk_size (int): The maximum size (in characters) of each text chunk.
     """
     # Filter chapters based on the specified range
     chapters_sub = {
@@ -118,19 +120,55 @@ def process_chapters(chapters, output_dir, VOICE, watermark, chapter_num_start, 
 
     # Process each chapter
     for chapter_num, content in chapters_sub.items():
-        TEXT = content + watermark
-        OUTPUT_FILE = f"{output_dir}/{chapter_num}.mp3"
-        SRT_FILE = f"{output_dir}/{chapter_num}.srt"
+      
+        lines = content.split('\n') # Split by single new line
+        chunk_num = 1
+        current_chunk = ""
 
-        # Convert text to speech
-        get_audio(TEXT, OUTPUT_FILE, SRT_FILE, VOICE)
+        for line in lines:
+            if len(current_chunk) + len(line) + len(watermark) < max_chunk_size:
+                current_chunk += line + "\n"
+            else:
+                TEXT = current_chunk + watermark
+                OUTPUT_FILE = f"{output_dir}/{chapter_num}-{chunk_num}.mp3"
+                SRT_FILE = f"{output_dir}/{chapter_num}-{chunk_num}.srt"
 
-        # Validate the watermark in the subtitles
-        srt_text = srt_to_text_variable(SRT_FILE)
+                # Log chapter length
+                logging.info(f"Chapter {chapter_num} chunk {chunk_num} length: {len(current_chunk)} characters")
 
-        watermark_srt = srt_text[-len(watermark) :]
+                # Convert text to speech
+                get_audio(TEXT, OUTPUT_FILE, SRT_FILE, VOICE)
 
-        if watermark_srt == watermark:
-            print(f"{chapter_num}: done")
-        else:
-            print(f"{chapter_num}: incomplete; actual: {watermark_srt}")
+                # Validate the watermark in the subtitles
+                srt_text = srt_to_text_variable(SRT_FILE)
+
+                watermark_srt = srt_text[-len(watermark) :]
+
+                if watermark_srt == watermark:
+                  print(f"{chapter_num}-{chunk_num}: done")
+                else:
+                  print(f"{chapter_num}-{chunk_num}: incomplete; actual: {watermark_srt}")
+
+                current_chunk = line + "\n"
+                chunk_num +=1
+
+        # Process remaining chunk
+        if current_chunk:
+            TEXT = current_chunk + watermark
+            OUTPUT_FILE = f"{output_dir}/{chapter_num}-{chunk_num}.mp3"
+            SRT_FILE = f"{output_dir}/{chapter_num}-{chunk_num}.srt"
+            # Log chapter length
+            logging.info(f"Chapter {chapter_num} chunk {chunk_num} length: {len(current_chunk)} characters")
+
+            # Convert text to speech
+            get_audio(TEXT, OUTPUT_FILE, SRT_FILE, VOICE)
+
+            # Validate the watermark in the subtitles
+            srt_text = srt_to_text_variable(SRT_FILE)
+
+            watermark_srt = srt_text[-len(watermark) :]
+
+            if watermark_srt == watermark:
+                print(f"{chapter_num}-{chunk_num}: done")
+            else:
+                print(f"{chapter_num}-{chunk_num}: incomplete; actual: {watermark_srt}")

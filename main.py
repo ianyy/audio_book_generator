@@ -12,11 +12,10 @@ def main():
 
     # Extract chapters from the EPUB file   
     chapters = extract_chapters(epub_path)
-
+    # Set up logging to a file
+    logging.basicConfig(filename='logfile.log', level=logging.INFO)
     if mode==1:
-        # Set up logging to a file
-        logging.basicConfig(filename='logfile.log', level=logging.INFO)
-
+        # Print the extracted chapters
         logging.info("Extracted chapters: %s", list(chapters.keys()))
     
     else:
@@ -32,8 +31,6 @@ def main():
             os.makedirs(output_dir)
 
         # Process a subset of chapters
-        process_chapters(chapters, output_dir, voice, watermark, chapter_num_start, chapter_num_end) # Pass voice and watermark
-
-
+        process_chapters(chapters, output_dir, voice, watermark, chapter_num_start, chapter_num_end, logging) # Pass voice and watermark and logging
 if __name__ == "__main__":
     main()
